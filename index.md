@@ -18,3 +18,11 @@ or maybe this?
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Let's try making lists!
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+That looks good eh?
